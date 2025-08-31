@@ -1,0 +1,1 @@
+# Next_word_LSTM_trained_with_shakespeare-hamlet.txt
